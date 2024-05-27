@@ -475,6 +475,7 @@
       height: 37px;
     margin: 0 auto;
   }
+  
   .icons div{
       display: inline-block;
       float: left;
@@ -488,6 +489,7 @@
   .icons div:last-child{
       margin-right: 0;
   }
+
   .icons div svg{
       color: red;
       width: 18px;
